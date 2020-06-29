@@ -1,0 +1,17 @@
+qa:
+  username: user
+  password: ASDFEXAMPLE1234
+  jdbcUrl: jdbc:postgresql://172.11.11.111:5432/dbcat?useSSL=true
+  host: http://example-qa.com
+  authHost: http://example-qa.com
+  canal: web
+  authorization: DDf234EXAMPLEfsd==
+uat:
+  username: user
+  password: ASDFEXAMPLE123
+  jdbcUrl: jdbc:postgresql://172.11.111.111:5432/dbcat_og?useSSL=true
+  host: http://example-uat.com
+  authHost: http://example-uat.com
+  canal: web
+  authorization: DDf23EXAMPLE4fsd=
+
